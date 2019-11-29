@@ -1,0 +1,10 @@
+C:\Users\Krasimir\Downloads\NBA-PlayersRating\NBA-PlayersRating\bin\Debug\netcoreapp2.1\NBA-PlayersRating.deps.json
+C:\Users\Krasimir\Downloads\NBA-PlayersRating\NBA-PlayersRating\bin\Debug\netcoreapp2.1\NBA-PlayersRating.runtimeconfig.json
+C:\Users\Krasimir\Downloads\NBA-PlayersRating\NBA-PlayersRating\bin\Debug\netcoreapp2.1\NBA-PlayersRating.runtimeconfig.dev.json
+C:\Users\Krasimir\Downloads\NBA-PlayersRating\NBA-PlayersRating\bin\Debug\netcoreapp2.1\NBA-PlayersRating.dll
+C:\Users\Krasimir\Downloads\NBA-PlayersRating\NBA-PlayersRating\bin\Debug\netcoreapp2.1\NBA-PlayersRating.pdb
+C:\Users\Krasimir\Downloads\NBA-PlayersRating\NBA-PlayersRating\obj\Debug\netcoreapp2.1\NBA-PlayersRating.csprojAssemblyReference.cache
+C:\Users\Krasimir\Downloads\NBA-PlayersRating\NBA-PlayersRating\obj\Debug\netcoreapp2.1\NBA-PlayersRating.AssemblyInfoInputs.cache
+C:\Users\Krasimir\Downloads\NBA-PlayersRating\NBA-PlayersRating\obj\Debug\netcoreapp2.1\NBA-PlayersRating.AssemblyInfo.cs
+C:\Users\Krasimir\Downloads\NBA-PlayersRating\NBA-PlayersRating\obj\Debug\netcoreapp2.1\NBA-PlayersRating.dll
+C:\Users\Krasimir\Downloads\NBA-PlayersRating\NBA-PlayersRating\obj\Debug\netcoreapp2.1\NBA-PlayersRating.pdb
